@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://bigheads.io/svg?accessory=roundGlasses&body=chest&circleColor=blue&clothing=dressShirt&clothingColor=black&eyebrows=serious&eyes=happy&faceMask=false&faceMaskColor=white&facialHair=stubble&graphic=gatsby&hair=buzz&hairColor=black&hat=none&hatColor=black&lashes=true&lipColor=red&mask=false&mouth=openSmile&skinTone=light" alt="Temur Big Head" width=450/>
+<img src="https://bigheads.io/svg?accessory=roundGlasses&body=chest&circleColor=blue&clothing=vneck&clothingColor=black&eyebrows=leftLowered&eyes=normal&faceMask=false&faceMaskColor=blue&facialHair=stubble&graphic=gatsby&hair=buzz&hairColor=black&hat=none&hatColor=green&lashes=false&lipColor=red&mask=false&mouth=serious&skinTone=light" alt="Big Head" />
 
 <br/>
 
