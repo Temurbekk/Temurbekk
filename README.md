@@ -14,9 +14,6 @@ Graduated from <a href="http://www.brooklyn.cuny.edu/web/home.php"> <img src="ht
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/temursabirov/)
 - ⚡ Fun fact: I make sure to learn at least one new thing a day
 
-<p align="center" >
-<img alt="Temurbekk" src="https://github-readme-stats.vercel.app/api?username=Temurbekk&show_icons=true&theme=dark"  > </p>
-
 <a href="https://temur.dev">Check out my personal website 🕸️ </a>
 
 
