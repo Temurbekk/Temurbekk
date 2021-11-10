@@ -8,7 +8,7 @@
 
 - 💬  Ask me about **![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;**
 
-- 🚀  How to reach me  [temur.dev](https://temur.dev)
+- 🚀  How to reach me  [Temur.dev](https://temur.dev)
 
 - ⚡ Fun fact **I am a certified LORD**
 
