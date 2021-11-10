@@ -30,15 +30,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=F05138)&nbsp;
 ![XCode](https://img.shields.io/badge/-XCode-05122A?style=flat&logo=xcode&logoColor=007ACC)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
-<br>
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Temurbekk&show_icons=true&theme=nightowl" alt="biro's stats"/>
-</p>
-
-##
-
 <p align="center" style="background:blue">
   <a href="https://github.com/Temurbekk" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github" alt="Github"/>
