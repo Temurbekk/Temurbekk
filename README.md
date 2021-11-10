@@ -1,20 +1,52 @@
-<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Temur</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Temurbekk&color=blueviolet" alt="Profile views" /> </p>
+<img align="right" width="300em" height="300em" src="https://github.com/Temurbekk/Temurbekk/blob/main/github_gif.gif?raw=true"/>
 
+- 🔭  I’m currently working on self improvement
 
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Temurbek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Temurbekk" alt="Temurbekk" /> 
+- 🌱  I’m currently learning **Swift, React Native, Microservices**
 
-I'm a Software Engineer at <img src="https://1000logos.net/wp-content/uploads/2017/08/Fidelity-Logo.png" width="60px">
-Graduated from <a href="http://www.brooklyn.cuny.edu/web/home.php"> <img src="https://images.e-flux-systems.com/Brooklyn_College_Logo.png?w=2000" align="center" height="40px" width="60px"></a>
-  </p>
+- 💬  Ask me about **![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;**
 
-- 🔭 I’m currently looking for new hights to conquer 
-- 🌱 I’m currently learning about Swift, Shell, and Python
-- 🤔 I’m currently thinking about the next billion dollar idea 🤑
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/temursabirov/)
-- ⚡ Fun fact: I make sure to learn at least one new thing a day
+- 🚀  How to reach me  [temur.dev](https://temur.dev)
 
-<a href="https://temur.dev">Check out my personal website 🕸️ </a>
+- ⚡ Fun fact **I am a certified LORD**
 
+<br>
 
-:octocat: From [Temurbekk](https://github.com/Temurbekk)
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-XCode-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=F05138)&nbsp;
+![XCode](https://img.shields.io/badge/-XCode-05122A?style=flat&logo=xcode&logoColor=007ACC)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Temurbekk&show_icons=true&theme=nightowl" alt="biro's stats"/>
+</p>
+
+##
+
+<p align="center" style="background:blue">
+  <a href="https://github.com/Temurbekk" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github" alt="Github"/>
+</a>
+<a href="https://linkedin.com/in/temursabirov" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
+</a>
+  <a href="https://temur.dev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome" alt="Website"/>
+</a>
+</p>
