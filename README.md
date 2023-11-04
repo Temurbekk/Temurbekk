@@ -2,16 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Temurbekk&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/Temurbekk/Temurbekk/blob/main/github_gif.gif?raw=true"/>
 
-- 🔭  I’m currently working on self improvement
-
-- 🌱  I’m currently learning **Rust, Module Federation, Microservices**
-
-- 💬  Ask me about latest and greates tech
-
-- 🚀  How to reach me  [Temur.dev](https://temur.dev)
-
-- ⚡ Fun fact **I am a fitness enthusiast**
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
